@@ -1,6 +1,6 @@
 # cppbank
 
-**A basic project involving all the features of a corporate bank**
+**A basic project involving all the features of a corporate digital bank**
 
 The features of the bank are implemented in CPP and are as follows:
 1. Create an account
@@ -17,3 +17,8 @@ The features of the bank are implemented in CPP and are as follows:
    - Closure of account in the current branch and handover the details of the customer to the nearby branch
 6. Account clashing
    - If the account exists for the customer in any branch of the bank, then account clashes
+7. Close bank account
+   - Zero the balance by either debiting out the existing money or clearing out the credit of the user
+
+
+_The features included here are only in perspective of digital banking, hence cheques and old ledger system is not followed_
